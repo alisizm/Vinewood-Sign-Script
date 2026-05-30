@@ -1,2 +1,65 @@
-# Vinewood-Sign-Script
-Fivem Vinewood Sign
+# 🌟 Alisizm Vinewood Changer for FiveM
+
+[![Tebex Store](https://img.shields.io/badge/Purchase-Tebex-orange?style=flat-square&logo=tebex)](https://alisizm.tebex.io/package/7352416)
+[![Platform](https://img.shields.io/badge/Platform-FiveM-blue?style=flat-square)](#)
+[![YouTube Showcase](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=RjHSUoQqSI4)
+
+Customize one of the most iconic landmarks in Los Santos – the Vinewood sign! Easily change the text and color to give your server a unique identity.
+
+---
+
+## 🔗 Links
+*   **🛒 Purchase:** [Tebex Store](https://alisizm.tebex.io/package/7352416)
+*   **🎥 Showcase Video:** [YouTube](https://www.youtube.com/watch?v=RjHSUoQqSI4)
+*   **🛍️ My Store:** [View all scripts](https://alisizm.tebex.io/package)
+
+---
+
+## 🇬🇧 English Description
+
+### 📌 Overview
+Take control of Los Santos's skyline! With the Alisizm Vinewood Changer, you can easily change the text on the iconic Vinewood hill and give your server a completely unique identity. It's a great addition to make your server stand out and create a custom atmosphere for your players.
+
+### 🔧 Features
+*   **Custom Text:** Set any custom text you want, up to **8 characters** long.
+*   **Color Customization:** Fully customize the color of the text to match your server's theme or current events.
+*   **Command Based:** Incredibly easy to use in-game using the `/vinewood` command.
+*   **Roleplay Ready:** Perfect for roleplay servers looking to brand their city.
+*   **Optimized:** Lightweight and performance-friendly structure that won't impact your server's resources.
+
+---
+---
+
+## 🇹🇷 Türkçe Açıklama
+
+### 📌 Genel Bakış
+Los Santos’un en ikonik noktalarından biri olan Vinewood tabelasını artık tamamen kendi isteğinize göre özelleştirebilirsiniz! Bu script sayesinde Vinewood tepesindeki yazıyı kolayca değiştirebilir, sunucunuza özel ve farklı bir görünüm kazandırabilirsiniz.
+
+### 🔧 Özellikler
+*   **Özelleştirilebilir Yazı:** Tabelaya **8 harfe kadar** dilediğiniz yazıyı yazabilirsiniz.
+*   **Renk Ayarı:** Yazı rengini sunucunuzun konseptine veya etkinliklere göre dilediğiniz gibi ayarlayabilirsiniz.
+*   **Kolay Kullanım:** Oyun içerisinde sadece `/vinewood` komutunu kullanarak anında değişiklik yapabilirsiniz.
+*   **Roleplay Uyumu:** Kendi şehrinin markasını yaratmak isteyen Roleplay sunucuları için mükemmel uyum sağlar.
+*   **Yüksek Performans:** Hafif ve optimize yapısı sayesinde sunucunuzu kesinlikle yormaz.
+
+---
+
+## ⚖️ License Information / Lisans Bilgilendirmesi
+
+### English
+**This software is NOT Open Source.** 
+"Alisizm Vinewood Changer" is a commercial product licensed and distributed exclusively via the official Tebex store. This resource is protected by the FiveM Asset Escrow system and copyright laws.
+
+*   **Usage:** By purchasing this resource from the official Tebex store, you are granted a non-exclusive license to use it on your own FiveM server.
+*   **Transfer:** You may transfer the asset license to another Keymaster account using the official transfer feature provided by the Cfx.re Keymaster system. Reselling the asset outside of this official system is strictly prohibited.
+*   **Redistribution:** You may **NOT** redistribute, share, publish, resell, or leak any part of this software to third parties. Others must acquire their own license via the official Tebex store.
+*   **Tracking & Enforcement:** Hidden cryptographic markers and watermarks are securely embedded within the software files to track unauthorized redistribution and use. If unauthorized distribution, leaking, reselling (external to Keymaster), or claims of false ownership are detected: An official DMCA takedown notice and copyright complaint will be submitted directly to **Cfx.re (FiveM)** and **Tebex**. This action will result in the permanent ban of your Keymaster account, the blacklisting of your FiveM server, and the termination of any associated Tebex store. All copyrights and intellectual property rights belong to **alisizm**.
+
+### Türkçe
+**Bu yazılım Açık Kaynak (Open Source) DEĞİLDİR.**
+"Alisizm Vinewood Changer", ticari bir üründür ve yalnızca resmi Tebex mağazası üzerinden lisanslanarak dağıtılmaktadır. Bu eklenti, FiveM Asset Escrow sistemi ve telif hakkı yasalarıyla korunmaktadır.
+
+*   **Kullanım:** Bu ürünü resmi Tebex mağazasından satın alarak, yalnızca kendi FiveM sunucunuzda kullanmak üzere münhasır olmayan bir kullanım hakkı elde edersiniz.
+*   **Transfer:** Lisansınızı resmi Cfx.re Keymaster sistemi üzerinden başka bir Keymaster hesabına transfer edebilirsiniz. Bu resmi sistem haricinde ürünün üçüncü şahıslara satılması kesinlikle yasaktır.
+*   **Dağıtım:** Bu yazılımın herhangi bir parçasını üçüncü şahıslarla dağıtmak, paylaşmak, yayınlamak, satmak veya sızdırmak **YASAKTIR**. Diğer kullanıcılar kendi lisanslarını resmi Tebex mağazası üzerinden edinmelidir.
+*   **Takip ve Yaptırım:** İzinsiz dağıtımları, kullanımı ve sızıntıları tespit edebilmek amacıyla eklenti dosyalarının içerisine gizlenmiş şifreler ve filigranlar (watermark) yerleştirilmiştir. Yetkisiz dağıtım, sızıntı, satış (Keymaster harici) veya ürünü kendinizinmiş gibi gösterme eylemlerinin tespiti halinde: Doğrudan **Cfx.re (FiveM)** ve **Tebex** platformlarına resmi telif ihtarı (DMCA) ve şikayet gönderilecektir. Bu işlem; Keymaster hesabınızın kalıcı olarak yasaklanması, FiveM sunucunuzun kara listeye (blacklist) alınması ve varsa ilişkili Tebex mağazanızın kapatılması ile sonuçlanacaktır. Tüm telif hakları ve fikri mülkiyet hakları **alisizm**'e aittir.
